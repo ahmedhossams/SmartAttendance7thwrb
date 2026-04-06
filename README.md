@@ -115,7 +115,7 @@ The application will start on:
 
 Once the application is running, you can:
 
-- **Swagger UI**: Visit https://localhost:5001/swagger to explore and test the API
+- **Swagger UI**: Visit https://localhost:5000/swagger to explore and test the API
 - **API Documentation**: Interactive API documentation with try-it functionality
 
 ## 📚 API Endpoints
@@ -247,9 +247,7 @@ dotnet test
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🆘 Troubleshooting
 
@@ -275,4 +273,5 @@ For support and questions:
 
 ---
 
-**Happy Coding! 🎓**
+#   S m a r t A t t e n d a n c e 7 t h w r b  
+ 
